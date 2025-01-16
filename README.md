@@ -17,4 +17,4 @@ However,this's just a small exercise.So be free.)
 Come back.
 There is a similar black hole in 4 numbers of number. It's 7 6 4 1.
 Change different numbers of number we can get different holes,and change different systems cna do it too I think.
-So I do this project.
+So I do this project to search similar black holes.
