@@ -13,8 +13,8 @@ If we go on,we can only repeat 9,5,4 three numbers.
 WE CALL THESE NUMBER AS math number black holes.
 (Well,if there are some wrong with my talking when you search the Internet,just ignore it.
 Because I also find some differences with my introduction to others.
-However,this's just a small exercise.So be free.:)
+Haha anyway,this's just a small exercise.So be free.:)
 Come back.
 There is a similar black hole in 4 numbers of number. It's 7 6 4 1.
-Change different numbers of number we can get different holes,and change different systems cna do it too I think.
+Change different numbers of numbers we can get different holes,and change different systems cna do it too I think.（like BIN,OCT,HEX and so on）
 So I do this project to search similar black holes.
